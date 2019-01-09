@@ -19,8 +19,8 @@
 		https://github.com/BlockResearchGroup/compas_ghc
 	
 8. Install Grasshopper [Plugins](files). 
-	- [PhysX.GH](https://github.com/TheAsianCoders/PhysX.GH) 
-	- [Leopard](https://www.food4rhino.com/app/leopard)
+	- [PhysX.GH](https://www.food4rhino.com/app/physxgh) [source](https://github.com/TheAsianCoders/PhysX.GH) 
+	- [Leopard](https://www.food4rhino.com/app/leopard) [source](https://github.com/GeneKao/Leopard)
 
 
 ## Schedule
