@@ -51,6 +51,26 @@
 
 18:30-20:00 
 
-* **Module 1**
-	- **Public Lecture by Prof. Mike XIE**
+* **Public Lecture by Prof. Mike XIE**
 
+### Day 2 THU 01.10
+
+9:00-12:00 
+
+* **Exercise**
+   	- Coding Exercise: create your own polyline class
+
+* **Module 2** 
+	- Fundamental Computational Structural Design Concepts
+
+13:30-17:00 
+
+* **Module 3** 
+	- Geometry and Topology I
+
+* **Module 4** 
+	- Panelization & Tessellation
+
+18:30-20:00 
+
+* **Public Lecture by Prof. Philippe Block**
