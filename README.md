@@ -68,9 +68,30 @@
 * **Module 3** 
 	- Geometry and Topology I
 
-* **Module 4** 
-	- Panelization & Tessellation
-
 18:30-20:00 
 
 * **Public Lecture by Prof. Philippe Block**
+
+
+### Day 3 THU 01.14
+
+10:00-12:00 
+
+* **Module 5** 
+	- Geometry and Topology II
+
+13:30-17:00 
+
+* **Module 4** 
+	- Panelization & Tessellation
+
+* **Module 6** 
+	- Equilibrium-Informed Assembly
+
+* **Module 7** 
+	- Design Space Exploration and Optimization
+
+19:00-21:00 
+
+* **Studio**
+	- Individual Design Project Kick-off
