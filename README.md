@@ -83,10 +83,17 @@
 13:30-17:00 
 
 * **Module 4** 
-	- Panelization & Tessellation
+	- [Panelization & Tessellation](src/day_3/m4_tessellation)
+		- remesh
+		- dual mesh
+		- interface generation
+		- planarize interface
+		- voussoir generation
 
 * **Module 6** 
-	- Equilibrium-Informed Assembly
+	- [Equilibrium-Informed Assembly](src/day_3/m6_assembly)
+		- physics simulation using physx
+		- sequencing
 
 * **Module 7** 
 	- Design Space Exploration and Optimization
