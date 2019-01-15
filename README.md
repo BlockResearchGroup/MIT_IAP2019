@@ -66,7 +66,7 @@
    	- Coding Exercise: create your own polyline class
 
 * **Module 2** 
-	- Fundamental Computational Structural Design Concepts
+	- [Fundamental Computational Structural Design Concepts](https://docs.google.com/presentation/d/1p-zv9mRVL2ffMIHJFr2sJzslBhXStucicSSJTQTOSq0/edit?usp=sharing)
 
 13:30-17:00 
 
