@@ -106,10 +106,10 @@
 	- [Design Space Exploration and Optimization](https://docs.google.com/presentation/d/1JsCds5WZX60LkjQjGuFmW6MxCGFZ3vXNO2U-KQ83zC4/edit?usp=sharing)
 	
 
-### 2014.01.15.Wednesday [Day 4] from Tongji
+### 2014.01.15.Wednesday [Day 4]
 
 10:00-12:00
 
-* **Module 5.5** 
+* **Module 5.5** from Tongji
 	- [Geometry and Topology II: Form-Finding](src/day_4)
 
