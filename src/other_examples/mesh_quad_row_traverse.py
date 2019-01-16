@@ -40,7 +40,7 @@ def get_parallel_edges(mesh, uv):
 
             edges.append((a, b))
 
-    return [(u, v) for u, v in edges]
+    return edges
 
 
 if __name__ == '__main__':
