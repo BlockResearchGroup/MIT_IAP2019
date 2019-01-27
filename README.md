@@ -15,7 +15,7 @@
 2. Download [GitHub Desktop Client](https://desktop.github.com/)
 3. Download [Anaconda](https://conda.io/docs/user-guide/install/download.html) and install it. (During installation, check add conda to system path.)
 4. Add conda forge ```conda config --add channels conda-forge``` before installing. 
-5. [Install Compas](https://compas-dev.github.io/main/gettingstarted.html) ```conda install COMPAS```. 
+5. [Install Compas](https://compas-dev.github.io/main/gettingstarted.html) ```conda install COMPAS=0.3.6```. 
 6. [Install Compas to Rhino](https://compas-dev.github.io/main/environments/rhino.html) ```python -m compas_rhino.install 5.0``` (run as administrator.)
 7. Install Additional Compas packages, and update Ironpython 2.7.5 and system paths.
 	- [compas_tna](https://github.com/BlockResearchGroup/compas_tna)
